@@ -1,0 +1,1 @@
+import{_ as o}from"./index-6a9a84ad.js";import{x as t,y as _,S as n,C as c}from"./vendor-bf4c92f7.js";import"./utils-78d57de0.js";const r={},s={class:"admin-container"};function a(d,i){const e=t("router-view");return _(),n("div",s,[c(e)])}const l=o(r,[["render",a],["__scopeId","data-v-fd281e21"]]);export{l as default};
